@@ -1,0 +1,61 @@
+
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 50px;
+}
+
+body{
+    background-color: black;
+}
+
+p {
+    color: aliceblue;
+    text-align: center;
+}
+
+ol{
+    color:aliceblue;
+    text-align: center;
+    list-style-position: inside;
+    background-color:brown
+}
+
+h2 {
+    text-align: center;
+}
+
+li{
+    text-align: center;
+}
+
+
+
+table, th, td {
+    background-color: bisque;
+    color:darkgoldenrod;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px white;
+    border-radius: 10px;
+   
+}
+
+#mini{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 10px;
+}
+
+#main{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    background-color: brown;
+    color: black;
+    border-radius: 12px;
+}
+
+img {
+    border-radius: 8px;
+    display: block;
+    margin: 0 auto;
+}
