@@ -14,3 +14,10 @@ My webpage theme is about the horror game, welcome to the game
 While making this webpage I was reminded of how easy and simple CSS is, I was amazed by how much better my webpage looks with it.
 
 Some challenges I faced was getting the tables to appear, and figure out how to make the images directory on the root level.
+
+project4 - javascript
+My page is a continuation of welcome to the game
+
+After experimenting, I added a table and button
+
+Some challenges was getting it to be responsive.
